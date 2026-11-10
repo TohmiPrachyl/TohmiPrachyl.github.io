@@ -1,2 +1,2 @@
 # TohmiPrachyl.github.io
-second try
+Updated version of a personal website to showcase my portfolio.
